@@ -15,6 +15,7 @@ By using squaring, you agree to adhere to the following principles and to only e
 Acceptable behavior when using the program includes:
 - Finding the squares of whole numbers
 - Being greeted by the program to curb loneliness
+
 Unacceptable behavior can be defined as using the program for the purposes of:
 - Shaming those who find themselves attached to lines of code
 - Ridiculing those who find meaning in an automated greating
