@@ -5,7 +5,7 @@
 ---
 
 ## Code of Conduct for Squaring
-By using squaring, you agree to adhere to the following principles and to only engage in the accepted behavior listed below. You also agree to right any wrongdoing through the process also listed below. Squaring exists for the purpose of: 
+By using squaring, you agree to adhere to the following principles and to only engage in the accepted behavior listed below. You also agree to correct any wrongdoing through the process also listed below. Squaring exists for the purpose of: 
 - Finding the squares of whole numbers in a rather complicated process
 - Not having to dig through backpacks to find calculators for a "simple" task
 - Not wasting phone battery on "simple" calculations
